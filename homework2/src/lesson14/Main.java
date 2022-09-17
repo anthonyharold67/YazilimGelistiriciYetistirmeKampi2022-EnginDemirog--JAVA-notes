@@ -4,6 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// array
+		//arrayleri yazdırmak için döngü ile dönmemiz gerekiyor
 		String ogrenci1 = "Engin";
 		String ogrenci2 = "Derin";
 		String ogrenci3 = "Salih";
